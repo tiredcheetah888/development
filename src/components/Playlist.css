@@ -1,0 +1,13 @@
+.playlist{
+    padding: 40px;
+    border-style: solid;
+    border-color: #296A85;
+    border-radius: 20px;
+}
+
+.heading{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  align-items: baseline;
+}

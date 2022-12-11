@@ -1,0 +1,32 @@
+.song-item{
+    padding: 40px;
+    margin: 10px;
+    border-style: solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 20px;
+    border-width: 2px;
+    border-color: #296A85;
+}
+
+button{
+    border-radius: 10%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9.5px;
+    padding-right: 9.5px;
+    margin-right: 5px;
+}
+
+button:hover {
+    background-color: #AADDEB;
+    color: #296A85;
+  }
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    border-radius: 50%;
+}
