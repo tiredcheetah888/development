@@ -4,7 +4,7 @@
 `https://tiredcheetah888.github.io/development`
 
 ### Goal and Value of the Application
-The goal of this app is to add songs from the song library to a playlist. You can filter the songs by genre and vibe, as well as sort them by song length.
+The goal of this app is to add songs from the song library to a playlist. Users can filter the songs by genre and vibe, as well as sort them by song length.
 
 ### Usability Principles Considered
 
